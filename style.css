@@ -1,0 +1,8 @@
+.active {
+  border: 1px solid red;
+}
+
+input[type="email"],
+input[type="password"] {
+  outline: none;
+}
